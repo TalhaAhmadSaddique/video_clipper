@@ -1,0 +1,11 @@
+trimmed_videos/
+youtube_videos/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+
+prc.py
+
+new-venv/
